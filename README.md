@@ -1,4 +1,4 @@
-# Laboratorio: Ecosistema Odoo — Sprint UD7
+# Taller práctico 03: Laboratorio: Ecosistema Odoo
 
 **Módulo:** Lenguaje de Marcas
 **Alumno:** Elena Sáez Lascurain
